@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f4315dbf5e3add48baab2b7a25c9730, type: 3}
+  m_Name: head_2
+  m_EditorClassIdentifier: Assembly-CSharp::Sanlaq.ClothingItem
+  id: head_2
+  displayName: Red felt hat
+  slot: 0
+  icon: {fileID: 6819662284089923870, guid: ac1b33bee4293234490d68e6aa0cf31a, type: 3}
+  visual: {fileID: -1387967432046628578, guid: 500d791699eba1446a8257f67cb5dc94, type: 3}
+  color: {r: 0.75, g: 0.32, b: 0.25, a: 1}
+  shape: 2
